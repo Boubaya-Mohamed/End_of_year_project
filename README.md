@@ -56,7 +56,10 @@ It comes pre-configured with the following bundles:
 All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
+Report of this project(in French) : link : https://goo.gl/a1pVpE
+
 Enjoy!
+
 
 [1]:  https://symfony.com/doc/3.1/setup.html
 [6]:  https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html
