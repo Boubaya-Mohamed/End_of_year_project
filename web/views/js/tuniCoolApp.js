@@ -39,7 +39,7 @@ $scope.$on('logout',function(){$scope.login=false});
         }
     }).success(function(response){ 
       $scope.result=response;
-      console.log(response);
+     
     });
   };
 $scope.checkConnection = function() {
